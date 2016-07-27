@@ -1,2 +1,2 @@
 # G1
-image:g1-1.jpg[]
+<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
